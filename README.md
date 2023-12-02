@@ -58,12 +58,12 @@ The imported data were cleaned before merging together. These datasets shared a 
 Steps involved include:
 
 - The Employee table was joined to the salaries table first using the **Left Outer Join Kind** with the common column Emp_no.
- 
-![](e.png) 
+  
+![image](https://github.com/SeunA88/Fresh-start-with-Power-BI/assets/147582398/87b5ad4f-2284-4561-a6c1-9feb7f41a6d9)
 
-![image](https://github.com/SeunA88/Fresh-start-with-Power-BI/assets/147582398/542abb1e-0b5d-4567-988c-1825ea4a8c92)
+![image](https://github.com/SeunA88/Fresh-start-with-Power-BI/assets/147582398/f2a69c0f-57a9-4fb1-ad21-5c37744b96c8)
 
-![](d.png)
+![image](https://github.com/SeunA88/Fresh-start-with-Power-BI/assets/147582398/bd8342b2-990c-428a-9c0b-5a018a573ac3)
 
 Please find below the result of the data cleaning mentioned above and the merged/joined table.
 
