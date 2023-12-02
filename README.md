@@ -20,6 +20,13 @@ For the SQL file, the same Excel csv file was first uploaded into a database in 
 
 Please find below screenshots of the achieved result.
 
+![](B.png)
+
+![](sql.png)
+
+![](2.png)
+
+---
 
 After this, anorher datase4; Employee data(Excel csv format) was imported into the Power BI desktop and data cleaning was then carried out on this dataset. Steps involved were:
 - Removal of duplicates
