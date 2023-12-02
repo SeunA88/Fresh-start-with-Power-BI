@@ -57,15 +57,42 @@ The imported data were cleaned before merging together. These datasets shared a 
 
 Steps involved include:
 
-- The Employee table was joined to the salaries table first using the **Left Outer Join Kind** with the common column Emp_no.
+- The Employee table was joined to the salaries table first using the **Left Outer Join Kind** with the **common column Emp_no**, this was named as **Employee & salaries table**. The salaries table was then expanded to join in the desired columns selected.
   
-![image](https://github.com/SeunA88/Fresh-start-with-Power-BI/assets/147582398/87b5ad4f-2284-4561-a6c1-9feb7f41a6d9)
+![](e.png)
 
-![image](https://github.com/SeunA88/Fresh-start-with-Power-BI/assets/147582398/f2a69c0f-57a9-4fb1-ad21-5c37744b96c8)
+![](d.png)
 
-![image](https://github.com/SeunA88/Fresh-start-with-Power-BI/assets/147582398/bd8342b2-990c-428a-9c0b-5a018a573ac3)
+Showing the three newly added columns
+![](g.png)
 
-Please find below the result of the data cleaning mentioned above and the merged/joined table.
+---
+
+- Then, the dept_emp table was added to the Employee & salaries table created above using the same steps as above with the **common column Emp_no**. This was named **Employee & salaries & dept_emp table.** 
+
+![](h.png)
+
+![](i.png)
+
+Showing the newly added column
+![](j.png)
+
+---
+
+- Finally, the Department table was added to th Employee & salaries & dept_emp table created above using the same steps with the **common column Dept_no**.This was named **complete Employee Info.** 
+
+![](k.png)
+
+![](l.png)
+
+Showing the newly added column
+![](m.png)
+
+---
+
+In conclusion, this beginner's tasks show that data can be imported into Power BI from different sources, can be cleaned, edited and merged using functions in the Power Query Editor and then applied to the Power BI desktop for detailed analysis.
+
+
 
 ---
 
