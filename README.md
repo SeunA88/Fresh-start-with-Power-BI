@@ -5,6 +5,9 @@ The journey to learning Power BI starts with the basics of importing data into P
 
 The files were imported through the **get data** portal in Power BI. For the Excel csv file, this option was selected from the drop down list and the browse tab was used to get the file location and upload the file into Power BI desktop.
 
+Please find below screenshots of the achieved result.
+!(
+
 For the SQL file, the same Excel csv file was first uploaded into a database in SQL, and then only the top 25 rows of the dataset was imported to the Power BI desktop. This was achieved by writing out a query in Power BI Desktop to select out only 25 rows, after selecting the SQL path for data upload.
 
 
