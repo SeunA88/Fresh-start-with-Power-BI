@@ -19,12 +19,13 @@ For the SQL file, the same Excel csv file was first uploaded into a database in 
 
 
 Please find below screenshots of the achieved result.
+![](2.png)
 
 ![](B.png)
 
 ![](sql.png)
 
-![](2.png)
+![](3.png)
 
 ---
 
