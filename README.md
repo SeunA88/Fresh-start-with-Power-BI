@@ -1,11 +1,15 @@
 # Fresh start with Power BI
 
+![](logo.png)
+
 ---
 The journey to learning Power BI starts with the basics of importing data into Power BI desktop from different sources. In this task, two sets of data were imported into Power BI desktop, an Excel csv file and a csv file from SQL.
 
 The files were imported through the **get data** portal in Power BI. For the Excel csv file, this option was selected from the drop down list and the browse tab was used to get the file location and upload the file into Power BI desktop.
 
 Please find below screenshots of the achieved result.
+
+![](A.png)
 
 ![](1.png)
 
