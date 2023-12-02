@@ -30,7 +30,7 @@ Please find below screenshots of the achieved result.
 
 ---
 
-After this, another dataset; Employee data (Excel csv format) was imported into the Power BI desktop and data cleaning was then carried out on this dataset. Steps involved include:
+After this, another dataset; Employee data() was imported into the Power BI desktop and data cleaning was then carried out on this dataset. Steps involved include:
 
 - Used the firt row as header, listed as **Promoted header.**
 - Checked for duplicates, no duplicates found.
@@ -49,9 +49,9 @@ Please find below screenshots of the data cleaning steps.
 
 Another task carried out was joining/ merging of tables. Three other tables in Excel csv file format were imported and **Transform data**  was selected to import them directly into the Power Query Editor where all the editing and merging was achieved. The three other tables are:
 
-- Salaries data 
-- Department data
-- Dept_emp data
+- Salaries data ()
+- Department data ()
+- Dept_emp data ()
   
 The imported data were cleaned before merging together. These datasets shared a common column with another, and this common column served as the joining platform for the four tables. 
 
