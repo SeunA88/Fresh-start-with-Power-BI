@@ -49,9 +49,9 @@ Please find below screenshots of the data cleaning steps.
 
 Another task carried out was joining/ merging of tables. Three other tables in Excel csv file format were imported and **Transform data**  was selected to import them directly into the Power Query Editor where all the editing and merging was achieved. The three other tables are:
 
-- Salaries data ()
-- Department data ()
-- Dept_emp data ()
+- Salaries data
+- Department data (https://github.com/SeunA88/Fresh-start-with-Power-BI/blob/main/departments.csv)
+- Dept_emp data (https://github.com/SeunA88/Fresh-start-with-Power-BI/blob/main/dept_emp.csv)
   
 The imported data were cleaned before merging together. These datasets shared a common column with another, and this common column served as the joining platform for the four tables. 
 
