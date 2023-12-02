@@ -19,6 +19,7 @@ For the SQL file, the same Excel csv file was first uploaded into a database in 
 
 
 Please find below screenshots of the achieved result.
+
 ![](2.png)
 
 ![](B.png)
@@ -29,19 +30,40 @@ Please find below screenshots of the achieved result.
 
 ---
 
-After this, anorher datase4; Employee data(Excel csv format) was imported into the Power BI desktop and data cleaning was then carried out on this dataset. Steps involved were:
-- Removal of duplicates
-- Datatype corrections, standardization and formatting e.g. currency and text datatypes
-- Column naming to suit the data therein.
+After this, another dataset; Employee data (Excel csv format) was imported into the Power BI desktop and data cleaning was then carried out on this dataset. Steps involved include:
 
-
-Also, joining/ merging of tables was done in this task. Two other tables in Excel csv file format were imported into the Power BI desktop;
-- Salary data 
-- Department data 
+- Used the firt row as header, listed as **Promoted header.**
+- Checked for duplicates, no duplicates found.
+- Datatype corrections, standardization and formatting e.g. currency and text datatypes listed as **Changed type**
+- Column naming to suit the data therein, listed as **Renamed columns**
+- Merged first name and last name columns to get full name column, listed as **Inserted Merged Column**
+- Reordered the columns to place the Full name close to the gender column, listed as **Reordered Columns**
   
-These datasets shared a common column with each other and the Employee dataset. This common column served as the joining platform for the three tables.
-The three tables were joined one after the other using Join table function in Power BI and turnwd into a single table containing all the information from the three tables..
 
+Please find below screenshots of the data cleaning steps.
+
+![](4.png)
+
+---
+
+
+Another task carried out was joining/ merging of tables. Three other tables in Excel csv file format were imported and **Transform data**  was selected to import them directly into the Power Query Editor where all the editing and merging was achieved. The three other tables are:
+
+- Salaries data 
+- Department data
+- Dept_emp data
+  
+The imported data were cleaned before merging together. These datasets shared a common column with another, and this common column served as the joining platform for the four tables. 
+
+Steps involved include:
+
+- The Employee table was joined to the salaries table first using the **Left Outer Join Kind** with the common column Emp_no.
+ 
+![](e.png) 
+
+![image](https://github.com/SeunA88/Fresh-start-with-Power-BI/assets/147582398/542abb1e-0b5d-4567-988c-1825ea4a8c92)
+
+![](d.png)
 
 Please find below the result of the data cleaning mentioned above and the merged/joined table.
 
