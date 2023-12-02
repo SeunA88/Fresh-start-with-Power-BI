@@ -30,7 +30,7 @@ Please find below screenshots of the achieved result.
 
 ---
 
-After this, another dataset; Employee data() was imported into the Power BI desktop and data cleaning was then carried out on this dataset. Steps involved include:
+After this, another dataset; Employee data(https://github.com/SeunA88/Fresh-start-with-Power-BI/blob/main/employees.csv) was imported into the Power BI desktop and data cleaning was then carried out on this dataset. Steps involved include:
 
 - Used the firt row as header, listed as **Promoted header.**
 - Checked for duplicates, no duplicates found.
