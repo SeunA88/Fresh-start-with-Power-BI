@@ -32,7 +32,7 @@ Please find below screenshots of the achieved result.
 
 After this, another dataset; Employee data(https://github.com/SeunA88/Fresh-start-with-Power-BI/blob/main/employees.csv) was imported into the Power BI desktop and data cleaning was then carried out on this dataset. Steps involved include:
 
-- Used the firt row as header, listed as **Promoted header.**
+- Used the first row as header, listed as **Promoted header.**
 - Checked for duplicates, no duplicates found.
 - Datatype corrections, standardization and formatting e.g. currency and text datatypes listed as **Changed type**
 - Column naming to suit the data therein, listed as **Renamed columns**
@@ -79,7 +79,7 @@ Showing the newly added column
 
 ---
 
-- Finally, the Department table was added to th Employee & salaries & dept_emp table created above using the same steps with the **common column Dept_no**.This was named **complete Employee Info.** 
+- Finally, the Department table was added to th Employee & salaries & dept_emp table created above using the same steps with the **common column Dept_no**.This was named **Complete Employee Info.** 
 
 ![](k.png)
 
@@ -90,7 +90,7 @@ Showing the newly added column
 
 ---
 
-In conclusion, this beginner's tasks show that data can be imported into Power BI from different sources, can be cleaned, edited and merged using functions in the Power Query Editor and then applied to the Power BI desktop for detailed analysis.
+In conclusion, this beginner's tasks show that data can be imported into Power BI from different sources, can be cleaned, edited and merged using functions in the Power Query Editor. This clean data can then be applied to the Power BI desktop for detailed analysis.
 
 
 
